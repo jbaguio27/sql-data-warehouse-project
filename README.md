@@ -83,6 +83,10 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+## 🔀 Data Flow
+
+<img width="1041" height="781" alt="image" src="https://github.com/user-attachments/assets/c63d613d-b790-4038-90ce-b3f6b933d96c" />
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
