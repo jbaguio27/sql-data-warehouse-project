@@ -56,6 +56,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
 
+## 📊 Data Model
+
+<img width="992" height="860" alt="image" src="https://github.com/user-attachments/assets/45504bd7-9ca6-4f7d-949a-2643b083aab5" />
+
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
